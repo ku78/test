@@ -3,6 +3,6 @@ package ru.geekbrains.java.leve1;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	// writeerewrewrrwerwer your code here
     }
 }
